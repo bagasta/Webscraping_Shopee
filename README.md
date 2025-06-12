@@ -11,3 +11,6 @@ All data is then exported and downloaded into Excel with pandas.
 <li>BeautifulSoup(bs4)</li>
 <li>request</li>
 <li>pandas</li>
+
+<h2>License</h2>
+This project is licensed under the <a href="LICENSE">MIT License</a>.
